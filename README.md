@@ -79,6 +79,3 @@ To set up and run this project locally, follow these steps:
     -Method: DELETE
     -Response:
     ("Task deleted")
-
-11. Deployment
-    Deployed Link: [LINK](https://edulabs-backtemp.onrender.com)
