@@ -79,3 +79,5 @@ To set up and run this project locally, follow these steps:
     -Method: DELETE
     -Response:
     ("Task deleted")
+
+## Deployed Link: [LINK](https://task-manager-gcyn.onrender.com/)
